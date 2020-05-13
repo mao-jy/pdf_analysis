@@ -1,0 +1,5 @@
+/utils/logging/out.log
+/.idea/
+/pdf_file/
+/output/
+*.pyc
